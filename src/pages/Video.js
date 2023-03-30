@@ -5,8 +5,8 @@ function Video() {
   const videoRef = useRef(null);
   const [play, setPlay] = useState(false);
 
-  function handleStart() {
-    if (!play) {
+  function handdleStart() {
+    if (play) {
       videoRef.current.pause();
       setPlay(false);
     } else {
@@ -18,11 +18,10 @@ function Video() {
     <div className="video">
       <video
         className="video__player"
-        controls
         ref={videoRef}
-        onClick={handleStart}
+        onClick={handdleStart}
         loop
-        src="https://youtu.be/44B1WWDci3Q"
+        src="https://firebasestorage.googleapis.com/v0/b/jornadadevtr.appspot.com/o/WhatsApp%20Video%202023-03-29%20at%2020.04.52.mp4?alt=media&token=db4be029-27cc-4af9-b75d-3ce5fd1b1fe2"
       ></video>
     </div>
   );
