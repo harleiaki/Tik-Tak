@@ -18,10 +18,11 @@ function Video() {
     <div className="video">
       <video
         className="video__player"
+        controls
         ref={videoRef}
         onClick={handdleStart}
         loop
-        src="https://firebasestorage.googleapis.com/v0/b/jornadadevtr.appspot.com/o/WhatsApp%20Video%202023-03-29%20at%2020.04.52.mp4?alt=media&token=db4be029-27cc-4af9-b75d-3ce5fd1b1fe2"
+        src="https://firebasestorage.googleapis.com/v0/b/jornada2-eb156.appspot.com/o/ZqU6oFX6.mp4.mp4?alt=media&token=9839e872-2d5e-4da3-9299-17eb2949831d"
       ></video>
     </div>
   );
