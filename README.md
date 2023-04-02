@@ -1,5 +1,5 @@
 # LINK PROJETO: 
-tiktak---jornada.web.app
+https://tiktak---jornada.web.app/
 
 https://user-images.githubusercontent.com/96266332/229320310-ff5c0b16-409e-4db5-b55c-3aa240719ab8.mp4
 
