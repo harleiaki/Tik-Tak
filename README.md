@@ -12,6 +12,12 @@ https://user-images.githubusercontent.com/96266332/229384202-4bc1109e-2877-493f-
 # Firebase
 https://firebase.google.com/?hl=pt-br
 
+### Hard Skills
+Conhecimento e habilidades técnicas profissionais, como conhecimento de linguagens de programação, compreensão do processo de desenvolvimento, HTML, CSS, Github e muito mais.
+
+### Soft Skills
+Qualidades pessoais como sociabilidade, capacidade de trabalhar em equipe, criatividade, pontualidade, responsabilidade.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
